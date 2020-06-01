@@ -72,6 +72,7 @@ const ansers = [
   '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'
 ];
 
+
 function asessment(userName){
   let Code =0;
   for(let i =0; i< userName.length; i++){
